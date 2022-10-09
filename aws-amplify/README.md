@@ -4,8 +4,8 @@
 https://docs.amplify.aws/
 
 # getting started
-- 🚧 [Javascript](./getting-started-javascript.md)
-- React : https://docs.amplify.aws/start/q/integration/react/
+- ✅ [Javascript](./getting-started-javascript/getting-started-javascript.md)
+- 🚧 React : https://docs.amplify.aws/start/q/integration/react/
 - Reactnative : https://docs.amplify.aws/start/q/integration/react-native/
 - angular : https://docs.amplify.aws/start/q/integration/angular/
 - Vue : https://docs.amplify.aws/start/q/integration/vue/
